@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Voltaire
     - http://fr.wikipedia.org/wiki/Voltaire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18569#Voltaire-s-Philosophical-Dictionary
 gutenberg_bookshelf: Banned Books from Anne Haight's list
 gutenberg_issued: '2006-06-12'
 gutenberg_type: Text
